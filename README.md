@@ -2,6 +2,9 @@
 
 **Open-source AI agent monitoring, malicious-agent detection, and escalate-only containment** for sandboxed LLM agents. Local HackSpain 2026 stack (AngryRobot dashboard): FastAPI, React/Vite, Neo4j. Classifies a *chain of actions*, not a single tool call. A model never pulls the plug.
 
+<img width="17596" height="9425" alt="image" src="https://github.com/user-attachments/assets/3c2240bd-a5d4-4108-b7d1-39e08d03e032" />
+
+
 > Also searchable as: **agent security monitor**, **LLM agent kill-switch**, **Jev / Sentinel / SafetyDrift pipeline**, **sandbox containment ladder (L1–L5)**. GitHub repo today: [`hack-spain-2026`](https://github.com/carlosedm10/hack-spain-2026). Proposed rename: **`agi-jev-detection`**.
 
 This is not the HackSpain participant CLI. That binary is unpublished here; commands stay aligned with [hackspain.app/cli](https://hackspain.app/cli) and [docs/cli.md](docs/cli.md).
